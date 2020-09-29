@@ -1,12 +1,19 @@
 1.	Go to the folder in the terminal where you want to clone the repo of the git.
 2.	Clone the repo – Copy the clone url “link” of the repo (HTTPS or SSH).
-git clone link
-3.	cd repo // To go inside the repository in the terminal.
+        git clone link
+3.	Go inside the repository in the terminal.
+        cd repo 
 4.	We can create files inside this repo. Let’s say we add index.html file.
-5.	Type: git status. This shows all the untracked files (changes) between the local repo and the web repo.
+5.	    git status. 
+    This shows all the untracked files (changes) between the local repo and the web repo.
 6.	To add the changes in the web repo from local, type:
-git add index.html
-7.	Type git status. This shows all the changes that will be committed to the web repo.
-8.	To commit: git commit -m “Initial Commit”. This locks all the changes but still doesn’t pushes it in the web repo. -m means to give a message and “.” Denotes a message.
-9.	To push it in the web repo: git push.
-10.	To get all the changes from the web repo type: git pull. 
+        git add index.html
+7.	    git status. 
+    This shows all the changes that will be committed to the web repo.
+8.	To commit: 
+        git commit -m “Initial Commit” 
+    This locks all the changes but still doesn’t pushes it in the web repo. -m means to give a message and     “.” Denotes a message.
+9.	To push it in the web repo: 
+        git push.
+10.	To get all the changes from the web repo type: 
+        git pull
