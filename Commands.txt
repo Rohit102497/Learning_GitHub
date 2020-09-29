@@ -17,3 +17,6 @@
         git push.
 10.	To get all the changes from the web repo type: 
         git pull
+
+
+Adding new line just to check how to get a previous commit.
