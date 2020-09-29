@@ -1,0 +1,6 @@
+This file contains the name of dishes. We will add dishes at different times and braches to understand the working of github.
+
+Kheer
+Pasta
+Chicken curry
+
